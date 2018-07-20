@@ -91,7 +91,7 @@ $(function() {
                 loadFeed(0, done);
             });
             it('There is at least a single .entry element within the .feed container', function(){
-                expect($('.entry').length).toBeGreaterThan(0);
+                expect($('.feed .entry').length).toBeGreaterThan(0);
                });
          });
     /*   A new test suite named "New Feed Selection" */
