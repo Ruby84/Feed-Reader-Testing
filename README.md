@@ -1,6 +1,6 @@
 # How to run this project:
 
-You can go to [link to Github!](https://github.com/Ruby84/Feed-Reader-Testing)to download/clone the project 
+You can go [This link!](https://github.com/Ruby84/Feed-Reader-Testing)to download/clone the project 
 
 1. Open index.html file in any of your favorite browser.
 2. If all the test cases are passing you will see everything is green.
